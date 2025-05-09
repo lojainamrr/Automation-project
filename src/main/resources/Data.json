@@ -1,0 +1,15 @@
+{
+  "firstnameValid": "Logy" ,
+  "lastnameValid": "Amr",
+  "emailValid": "amrrhhhh@gmail.com",
+  "emailV": "smrff@gmail.com",
+  "telephoneValid": "01098973620",
+  "passwordValid": "logy2006",
+  "confirmedValid": "logy2006",
+  "firstnameInvalid": "lo00",
+  "lastnameInvalid": "lo99",
+  "emailInvalid": "logy@@gmail.com",
+  "telephoneInvalid": "0109okjs",
+  "passwordInvalid": "l",
+  "confirmedInvalid": "kol"
+}

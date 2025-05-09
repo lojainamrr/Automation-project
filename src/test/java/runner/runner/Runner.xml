@@ -1,0 +1,8 @@
+<suite name="Suite1" verbose="1">
+    <test name="Regression 1 on Edge">
+        <classes>
+            <class name="Tests.RegisterTests"/>
+        </classes>
+    </test>
+
+</suite>
